@@ -44,6 +44,7 @@
 - Data Structures and Algorithm Analysis in C
 - Create GUI Applications with Python & Qt6 (PyQt6 Edition)
 - Managing Projects with GNU Make: The Power of GNU Make for Building Anything
+- Git Essentials (Ferdinando Santacroce)
 - Modern CMake for C++: Discover a better approach to building, testing, and packaging your software
 - Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers
 - LaTeX Beginner's Guide: Create visually appealing texts, articles, and books for business and science using LaTeX
