@@ -11,7 +11,7 @@
 - Schaum's Outline of English Grammar
 - (Cambridge) English Vocabulary in Use: Elementary/ Intermediate/ Upper-intermediate/Advanced
 - (Cambridge) Academic Vocabulary in Use with Answers
-- Everything You Need to Ace (Series)
+- Everything You Need to Ace in One Big Fat Notebook (Series)
 
 
 # Textbooks of Calculus
@@ -35,14 +35,17 @@
 - Linux Command Line and Shell Scripting Bible
 - C Programming Language – ANSI C
 - An Introduction to GCC: For the GNU Compilers GCC and G++
+- Think Python
 - Introducing Python: Modern Computing in Simple Packages
+- Python Programming and Numerical Methods: A Guide for Engineers and Scientists
+- Scientific Computing with Python(High-performance scientific computing with NumPy, SciPy and pandas)
+- Create GUI Applications with Python & Qt6 (PyQt6 Edition)
+- Deep Learning with Python (Francois Chollet)
 - Learning PHP, MySQL & JavaScript - A Step-by-Step Guide to Creating Dynamic Websites
 - Learning Java - An Introduction to Real-World Programming with Java
 - Learning the Vi and Vim Editors
-- Scientific Computing with Python(High-performance scientific computing with NumPy, SciPy and pandas)
 - C++ Primer
 - Data Structures and Algorithm Analysis in C
-- Create GUI Applications with Python & Qt6 (PyQt6 Edition)
 - Managing Projects with GNU Make: The Power of GNU Make for Building Anything
 - Git Essentials (Ferdinando Santacroce)
 - Modern CMake for C++: Discover a better approach to building, testing, and packaging your software
