@@ -16,6 +16,8 @@
 
 # Textbooks of Calculus
 
+The ***Basic Mathematics – Serge LANG*** is also recommended as an introductory level textbook of this curriculum, or as a review of pre-Calculus materials taught in the high school.
+
 1. General One Variable Calculus:
     - The Calculus Lifesaver - Adrian Banner
     - Thomas’ Calculus - Joel Hass, Christopher Heil, et al.
