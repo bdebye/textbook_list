@@ -16,7 +16,7 @@
 
 # Textbooks of Calculus
 
-The ***Basic Mathematics – Serge LANG*** is also recommended as an introductory level textbook of this curriculum, or as a review of pre-Calculus materials taught in the high school.
+The ***Basic Mathematics – Serge LANG*** is also recommended as an preliminary level textbook of this curriculum, or as a review of pre-Calculus materials taught in the high school.
 
 1. General One Variable Calculus:
     - The Calculus Lifesaver - Adrian Banner
@@ -46,7 +46,8 @@ The ***Basic Mathematics – Serge LANG*** is also recommended as an introductor
 - Learning PHP, MySQL & JavaScript - A Step-by-Step Guide to Creating Dynamic Websites
 - Learning Java - An Introduction to Real-World Programming with Java
 - Learning the Vi and Vim Editors
-- C++ Primer
+- A Tour of C++
+- C++ Game Development By Example: Learn to build games and graphics with SFML, OpenGL, and Vulkan using C++ programming
 - Data Structures and Algorithm Analysis in C
 - Managing Projects with GNU Make: The Power of GNU Make for Building Anything
 - Git Essentials (Ferdinando Santacroce)
